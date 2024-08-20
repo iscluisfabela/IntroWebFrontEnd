@@ -1,4 +1,11 @@
-body
-{
-    background-color: rgb(87, 165, 225);    
+
+body {
+    background-color:  rgb(50, 8, 128);
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    
 }
